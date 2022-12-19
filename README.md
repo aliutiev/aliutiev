@@ -1,3 +1,9 @@
+<h1> Hi, I'm Andrew! <img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="25"></h1>
+
+[![Linkedin: aliutiev](https://img.shields.io/badge/-liutiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liutiev/)](https://www.linkedin.com/in/liutiev/)
+
+[![GitHub aliutiev](https://img.shields.io/github/followers/aliutiev?label=follow&style=social)](https://github.com/aliutiev)
+
 ### Hi there 👋
 
 <!--
