@@ -4,7 +4,7 @@
 [![GitHub aliutiev](https://img.shields.io/github/followers/aliutiev?label=follow&style=social)](https://github.com/aliutiev)
 
 <p><em>BBA/CS at <a href="https://wlu.ca/">Wilfrid Laurier University</a>
-  </br> Ex-Front End Dev/Support at <a href="https://www.shopify.com/">Shopify</a> 
+  </br> Ex-Front End Dev/Client Support at <a href="https://www.shopify.com/">Shopify</a> 
   </br> 
   Ex-Project Coordinator at <a href="https://near.org/">BlackBerry</a>
   </br>
