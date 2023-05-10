@@ -24,7 +24,7 @@
 
 I'm an aspiring Web3 technical product manager who is passionate about blockchain and decentralization. I've done work in ecommerce, cybersecurity, fintech and full stack development. Prior to tech I started in retail, outdoor equipment and raised service dogs! 
 
-Love learning, always open for a chat
+Love learning, always open for a chat ☕️ 
 
 -------
 
