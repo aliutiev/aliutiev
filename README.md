@@ -22,7 +22,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-I'm an aspiring Web3 technical product manager who is passionate about blockchain and decentralization. I've done work in ecommerce, cybersecurity, fintech and full stack development. Prior to tech I started in retail, outdoor equipment and raised service dogs! 
+I'm an aspiring Web3 technical product manager who is passionate about blockchain and decentralization. I've done work in ecommerce, cybersecurity, fintech and full stack development. Prior to tech I started in retail, outdoor equipment and raised service dogs 🐕 
 
 Love learning, always open for a chat ☕️ 
 
