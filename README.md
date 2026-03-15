@@ -1,7 +1,5 @@
 # Hi, I'm Andrew!
 
-[LinkedIn](https://www.linkedin.com/in/liutiev/) · [GitHub](https://github.com/aliutiev)
-
 Entrepreneur by day, developer by night — I’ve shipped web apps, trading tools, and infra‑adjacent systems across:
 
 - Product – KYC & Compliance at [Binance](https://www.binance.com/)
@@ -21,6 +19,9 @@ I build across web2 and web3: web apps, dapps, bots, and protocol‑adjacent too
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 Love learning, always open for a chat ☕️  
+
+[LinkedIn](https://www.linkedin.com/in/liutiev/) · [GitHub](https://github.com/aliutiev)
+
 
 -------
 
