@@ -3,31 +3,47 @@
 [![Linkedin: aliutiev](https://img.shields.io/badge/-liutiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liutiev/)](https://www.linkedin.com/in/liutiev/)
 [![GitHub aliutiev](https://img.shields.io/github/followers/aliutiev?label=follow&style=social)](https://github.com/aliutiev)
 
-<p><em>BBA/CS at <a href="https://wlu.ca/">Wilfrid Laurier University</a>
-  </br> Ex-Front End Dev/Client Support at <a href="https://www.shopify.com/">Shopify</a> 
-  </br> 
-  Ex-Project Coordinator at <a href="https://near.org/">BlackBerry</a>
-  </br>
-  Ex-Product at <a href="https://near.org/">Wealthsimple</a>
-</em></p>
+<p><em>Entrepreneur by day, developer by night.</em></p>
 
+<p><em>
+  Built & shipped with
+  </br> Product – KYC & Compliance at <a href="https://www.binance.com/">Binance</a>
+  </br> Product – P2P Transfers & Growth at <a href="https://www.wealthsimple.com/">Wealthsimple</a>
+  </br> Frontend Dev / Merchant Success at <a href="https://www.shopify.com/">Shopify</a>
+  </br> BBA / CS at <a href="https://wlu.ca/">Wilfrid Laurier University</a>
+</em></p>
 
 **Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/git/git.png"></code>
 
-I'm an aspiring Web3 technical product manager who is passionate about blockchain and decentralization. I've done work in ecommerce, cybersecurity, fintech and full stack development. Prior to tech I started in retail, outdoor equipment and raised service dogs 🐕 
+I build across web2 and web3: web apps, bots, and protocol-adjacent tooling on EVM, NEAR, Solana and Aleo.  
+Recent work includes hackathon-winning projects (Solana Colosseum, ETHGlobal, NEAR, Aleo), investor workflow automations, and Telegram-based trading tools.
 
-Love learning, always open for a chat ☕️ 
+Love learning, always open for a chat ☕️  
 
 -------
 
-🧑‍💻 [Check out my design work here](https://github.com/aliutiev/portfolio/tree/main/design)
+🧑💻 Check out more of my work:
+
+- Personal site & writing: <a href="https://www.aliutiev.com/">aliutiev.com</a>  
+- Companies & hacks overview: <a href="https://www.aliutiev.com/career">Career</a>  
+- Design & visuals: <a href="https://github.com/aliutiev/portfolio/tree/main/design">design work repo</a>
+
+<!--
+  </br>
+  DevRel Engineer at <a href="https://near.org/">NEAR Protocol</a>
+  </br>
+  Co-Founder at <a href="https://fayyr.com/">FAYYR </a>
+
+**aliutiev/aliutiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 
 <!--
 
