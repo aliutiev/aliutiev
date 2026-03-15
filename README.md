@@ -9,16 +9,18 @@ Entrepreneur by day, developer by night — I’ve shipped web apps, trading too
 - Frontend Dev / Merchant Success at [Shopify](https://www.shopify.com/)
 - BBA / CS at [Wilfrid Laurier University](https://wlu.ca/)
 
-I'be built across web2 and web3: web apps, dapps, bots, and protocol-adjacent tooling on EVM, NEAR, Solana and Aleo.
+Previously ecosystem lead and now advisor at Waterloo Blockchain, and former Technical Product Owner at the Lazaridis Students’ Society.
+
+I build across web2 and web3: web apps, dapps, bots, and protocol‑adjacent tooling on EVM, NEAR, Solana and Aleo.
 
 **Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 Love learning, always open for a chat ☕️  
 
@@ -26,9 +28,7 @@ Love learning, always open for a chat ☕️
 
 🧑💻 Check out more of my work:
 
-- Personal site & writing: <a href="https://www.aliutiev.com/">aliutiev.com</a>  
-- Companies & hacks overview: <a href="https://www.aliutiev.com/career">Career</a>  
-- Design & visuals: <a href="https://github.com/aliutiev/portfolio/tree/main/design">design work repo</a>
+- Personal site & writing: 
 
 <!--
   </br>
