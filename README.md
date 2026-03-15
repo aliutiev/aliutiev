@@ -3,10 +3,9 @@
 [![Linkedin: aliutiev](https://img.shields.io/badge/-liutiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liutiev/)](https://www.linkedin.com/in/liutiev/)
 [![GitHub aliutiev](https://img.shields.io/github/followers/aliutiev?label=follow&style=social)](https://github.com/aliutiev)
 
-<p><em>Entrepreneur by day, developer by night.</em></p>
+<p><em>Entrepreneur by day, developer by night. Built & shipped with: </em></p>
 
 <p><em>
-  Built & shipped with
   </br> Product – KYC & Compliance at <a href="https://www.binance.com/">Binance</a>
   </br> Product – P2P Transfers & Growth at <a href="https://www.wealthsimple.com/">Wealthsimple</a>
   </br> Frontend Dev / Merchant Success at <a href="https://www.shopify.com/">Shopify</a>
