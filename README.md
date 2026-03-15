@@ -1,6 +1,6 @@
 # Hi, I'm Andrew!
 
-[LinkedIn: aliutiev](https://www.linkedin.com/in/liutiev/) · [GitHub: aliutiev](https://github.com/aliutiev)
+[LinkedIn](https://www.linkedin.com/in/liutiev/) · [GitHub](https://github.com/aliutiev)
 
 Entrepreneur by day, developer by night — I’ve shipped web apps, trading tools, and infra‑adjacent systems across:
 
