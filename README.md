@@ -9,7 +9,7 @@ Entrepreneur by day, developer by night — I’ve shipped web apps, trading too
 - Frontend Dev / Merchant Success at [Shopify](https://www.shopify.com/)
 - BBA / CS at [Wilfrid Laurier University](https://wlu.ca/)
 
-I build across web2 and web3: web apps, bots, and protocol-adjacent tooling on EVM, NEAR, Solana and Aleo.
+I'be built across web2 and web3: web apps, dapps, bots, and protocol-adjacent tooling on EVM, NEAR, Solana and Aleo.
 
 **Languages and tools:**  
 
@@ -19,9 +19,6 @@ I build across web2 and web3: web apps, bots, and protocol-adjacent tooling on E
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d/topics/git/git.png"></code>
-
-I build across web2 and web3: web apps, bots, and protocol-adjacent tooling on EVM, NEAR, Solana and Aleo.  
-Recent work includes hackathon-winning projects (Solana Colosseum, ETHGlobal, NEAR, Aleo), investor workflow automations, and Telegram-based trading tools.
 
 Love learning, always open for a chat ☕️  
 
