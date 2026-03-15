@@ -1,16 +1,15 @@
-<h1> Hi, I'm Andrew! <img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="25"></h1>
+# Hi, I'm Andrew!
 
-[![Linkedin: aliutiev](https://img.shields.io/badge/-liutiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liutiev/)](https://www.linkedin.com/in/liutiev/)
-[![GitHub aliutiev](https://img.shields.io/github/followers/aliutiev?label=follow&style=social)](https://github.com/aliutiev)
+[LinkedIn: aliutiev](https://www.linkedin.com/in/liutiev/) · [GitHub: aliutiev](https://github.com/aliutiev)
 
-<p><em>Entrepreneur by day, developer by night. Built & shipped with: </em></p>
+Entrepreneur by day, developer by night — I’ve shipped web apps, trading tools, and infra‑adjacent systems across:
 
-<p><em>
-  </br> Product – KYC & Compliance at <a href="https://www.binance.com/">Binance</a>
-  </br> Product – P2P Transfers & Growth at <a href="https://www.wealthsimple.com/">Wealthsimple</a>
-  </br> Frontend Dev / Merchant Success at <a href="https://www.shopify.com/">Shopify</a>
-  </br> BBA / CS at <a href="https://wlu.ca/">Wilfrid Laurier University</a>
-</em></p>
+- Product – KYC & Compliance at [Binance](https://www.binance.com/)
+- Product – P2P Transfers & Growth at [Wealthsimple](https://www.wealthsimple.com/)
+- Frontend Dev / Merchant Success at [Shopify](https://www.shopify.com/)
+- BBA / CS at [Wilfrid Laurier University](https://wlu.ca/)
+
+I build across web2 and web3: web apps, bots, and protocol-adjacent tooling on EVM, NEAR, Solana and Aleo.
 
 **Languages and tools:**  
 
