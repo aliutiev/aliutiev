@@ -2,7 +2,7 @@
 
 Entrepreneur by day, developer by night — I’ve shipped web apps, trading tools, and infra‑adjacent systems across:
 
-- Product – KYC & Compliance at [Binance](https://www.binance.com/)
+- Operations – KYC, Compliance & Makerting at [Binance](https://www.binance.com/)
 - Product – P2P Transfers & Growth at [Wealthsimple](https://www.wealthsimple.com/)
 - Frontend Dev / Merchant Success at [Shopify](https://www.shopify.com/)
 - 🎓 BSc & BBA at [Wilfrid Laurier University (Waterloo)](https://wlu.ca/)
