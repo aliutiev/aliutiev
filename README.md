@@ -27,7 +27,7 @@ Love learning, always open for a chat ☕️
 
 🧑💻 Check out more of my work:
 
-- Personal site & writing: [portfolio](https://aliutiev.com/)
+- Personal site & writing: [portfolio](https://aliutiev.com/) | [design](https://github.com/aliutiev/portfolio/tree/main/design)
 
 <!--
   </br>
